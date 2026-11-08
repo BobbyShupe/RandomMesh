@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RandomMesh</string>
+    <string name="new_mesh">🎲 New Mesh</string>
+    <string name="pause">⏸ Pause</string>
+    <string name="play">▶ Play</string>
+    <string name="auto_on">Auto: ON</string>
+    <string name="auto_off">Auto: OFF</string>
+    <string name="speed_label">Animation speed</string>
+    <string name="rotation_label">Rotation</string>
+    <string name="zoom_label">Zoom</string>
+    <string name="rotation_speed_label">Rotation speed</string>
+    <string name="palette">🎨 Palette</string>
+    <string name="tap_hint">Tap the mesh for a new random one</string>
+    <string name="settings">⚙ Settings</string>
+    <string name="settings_title">Mesh settings</string>
+    <string name="close">Close</string>
+    <string name="unlock_all">Unlock all</string>
+    <string name="lock_hint">Tap a setting to lock it — locked settings survive the next roll. Every mesh rolls a fresh set.</string>
+    <string name="save_mesh">💾 Save Mesh</string>
+    <string name="portrait_video">🎬 Portrait Video</string>
+    <string name="video_length">Video length:</string>
+</resources>
